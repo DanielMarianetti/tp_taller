@@ -37,5 +37,5 @@ fn main() {
         std::process::exit(1);
     });
 
-    print!("{}", resultado_del_juego);
+    println!("{}", resultado_del_juego);
 }
